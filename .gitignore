@@ -1,0 +1,50 @@
+# Full local data are hosted externally and should not be committed
+Data/
+
+# External DLC model folders are hosted on Google Drive
+Models*/
+Models-*/
+DLC Models/
+DLC_Models/
+models/
+trained-models/
+
+# Python / Conda / notebook / editor clutter
+.conda/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.mlx~
+*.slxc
+*.mex*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large scratch/export folders that may be created locally
+STLFiles/
+B02_Animation_Frames/
+*_Frames/
+
+# Keep these repository folders trackable:
+#   Codes/
+#   Data - GitHub/
+#   Results/
+#   Supplementary materials/Gif/
+#   Supplementary materials/MP4/
+
+# Local Word copy of README, not pushed to GitHub
+README.docx

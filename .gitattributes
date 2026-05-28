@@ -1,0 +1,21 @@
+# Text files
+*.m text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text
+*.json text
+*.yaml text
+*.yml text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+*.avi binary
+*.mat binary
+*.stl binary
+*.docx binary
+*.pdf binary
