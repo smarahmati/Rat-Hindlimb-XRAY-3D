@@ -38,8 +38,6 @@ The GitHub repository contains a lightweight example data subset in:
 Data - GitHub/
 ```
 
-The full local `Data/` folder is intentionally not pushed to GitHub. The `Results/` folder and the supplementary GIF/MP4 examples can be pushed if each file remains below GitHub's file-size limit.
-
 ## Important DLC walking-direction note
 
 The distributed DLC model is intended for rats walking **from right to left** in the X-ray image.
@@ -69,21 +67,12 @@ Rat-Hindlimb-XRAY-3D/
 │   └── MP4/                       MP4 supplementary videos
 ├── Graphical_Abstract.png
 ├── README.md
-├── README.docx                    optional Word copy of this README
 ├── LICENSE
 ├── .gitignore
 └── .gitattributes
 ```
 
-The full local folder below should stay outside Git tracking:
-
-```text
-Data/
-```
-
 ## Supplementary previews
-
-The README shows the male examples only. The MP4 versions are provided in `Supplementary materials/MP4/`; the GIF versions below are used as lightweight GitHub previews.
 
 ### Landmark tracking - Supplementary Video 2, Male_7
 
