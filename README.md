@@ -192,15 +192,11 @@ The expanded DLC model development used a larger training set than the original 
 
 ## Citation
 
-If you use this repository, please cite:
+If you use this repository, please cite the associated paper:
 
-```text
-Rahmati, S. M., Plemmons, M., Watermeier, R. C., Iyer, K., Sameni, R.,
-Kaiser, J. M., Tsai, L.-C., and Chang, Y.-H. Automatic Registration of Generic Bone Models for
-X-Ray–Based Biomechanics: Application to 3D Rat Hindlimb Kinematics and Sex-Specific
-Gait Patterns. *Computers in Biology and Medicine*, **213**, 111783, 2026.  
-[https://doi.org/10.1016/j.compbiomed.2026.111783](https://doi.org/10.1016/j.compbiomed.2026.111783).
-```
+> Rahmati, S. M., Plemmons, M., Watermeier, R. C., Iyer, K., Sameni, R., Kaiser, J. M., Tsai, L.-C., & Chang, Y.-H. (2026). [Automatic registration of generic bone models for X-ray–based biomechanics: Application to 3D rat hindlimb kinematics and sex-specific gait patterns](https://doi.org/10.1016/j.compbiomed.2026.111783). *Computers in Biology and Medicine*, **213**, 111783.
+
+**DOI:** [10.1016/j.compbiomed.2026.111783](https://doi.org/10.1016/j.compbiomed.2026.111783)
 
 ## License
 
